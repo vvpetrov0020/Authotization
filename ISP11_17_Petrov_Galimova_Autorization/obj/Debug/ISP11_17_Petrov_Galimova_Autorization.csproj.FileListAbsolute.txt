@@ -1,0 +1,17 @@
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\bin\Debug\ISP11_17_Petrov_Galimova_Autorization.exe.config
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\bin\Debug\ISP11_17_Petrov_Galimova_Autorization.exe
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\bin\Debug\ISP11_17_Petrov_Galimova_Autorization.pdb
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\ISP11_17_Petrov_Galimova_Autorization.csprojAssemblyReference.cache
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\MainWindow.g.cs
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\App.g.cs
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\ISP11_17_Petrov_Galimova_Autorization_MarkupCompile.cache
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\ISP11_17_Petrov_Galimova_Autorization_MarkupCompile.lref
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\MainWindow.baml
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\ISP11_17_Petrov_Galimova_Autorization.g.resources
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\ISP11_17_Petrov_Galimova_Autorization.Properties.Resources.resources
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\ISP11_17_Petrov_Galimova_Autorization.csproj.GenerateResource.cache
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\ISP11_17_Petrov_Galimova_Autorization.csproj.CoreCompileInputs.cache
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\ISP11_17_Petrov_Galimova_Autorization.exe
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\ISP11_17_Petrov_Galimova_Autorization.pdb
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\HelloWindow.g.cs
+C:\Users\WSR\source\repos\ISP11_17_Petrov_Galimova_Autorization\obj\Debug\HelloWindow.baml
